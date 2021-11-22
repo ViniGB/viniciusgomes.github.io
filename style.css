@@ -3,6 +3,10 @@ h1 {
     font-family: fantasy;
 }
 
+body {
+    background-color: mintcream;
+}
+
 img {
     display: block;
     margin-left: auto;
